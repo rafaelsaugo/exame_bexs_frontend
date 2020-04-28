@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"of",
+				"oferta"
+			],
+			[
+				"o",
+				"oferta"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"inline\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"qu",
+				"query_video"
+			],
+			[
+				"vi",
+				"video"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"id",
+				"idVideo"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"con",
+				"conexao"
+			],
+			[
+				"MA",
+				"maximo"
+			],
+			[
+				"stri",
+				"strip_tags"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"bAC",
+				"background-position\tproperty"
+			],
+			[
+				"m",
+				"margin-right\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"myf",
+				"mysql_fetch_array"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"se",
+				"seleciona_videos"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"ta",
+				"Tahoma"
+			],
+			[
+				"A",
+				"Arial"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"f",
+				"f4f4f4"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"PO",
+				"_POST"
+			],
+			[
+				"Cadas",
+				"cadastrar"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"descri",
+				"descricao"
+			],
+			[
+				"Vide",
+				"videos"
+			],
+			[
+				"em",
+				"embed"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"myslq_co",
+				"mysqli_connect_error"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"cad",
+				"cadastra_video"
+			],
+			[
+				"cou",
+				"conteudo"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"subs",
+				"substr_count"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"co",
+				"conexao"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"cadas",
+				"cadastrar"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Con",
+				"confSenha"
+			],
+			[
+				"fet",
+				"apc_fetch"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"backa",
+				"background-image\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rafael/Downloads/bexs-front-end-exam-master/bexs-front-end-exam-master/src/index.html",
+		"/C/Users/Rafael/Downloads/bexs-front-end-exam-master/bexs-front-end-exam-master/README.md",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/pesquisa.html",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/addGaleria.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/pesquisa.html",
+		"/C/xampp/htdocs/TELA DE LOGIN/css/estilos.css",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/consulta.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/classes/conf2.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/classes/conf.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/acesso.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/cadastrar.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/css/acesso.css",
+		"/C/xampp/htdocs/TELA DE LOGIN/classes/alunos.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/css/addGaleria.css",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/areaPrivada.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/videos.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/php/sair.php",
+		"/C/xampp/htdocs/TELA DE LOGIN/css/cadastro.css",
+		"/C/Users/Rafael/Desktop/SITE ROGERIO/php/processa.php",
+		"/C/Users/Rafael/Desktop/SITE ROGERIO/php/acesso.php",
+		"/C/Users/Rafael/Desktop/SITE ROGERIO/css/acesso.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
